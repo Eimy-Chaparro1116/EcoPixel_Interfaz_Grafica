@@ -170,7 +170,7 @@ section {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/api/placeholder/1920/1080') no-repeat center center/cover;
+    background: linear-gradient(rgba(7, 70, 26, 0.6), rgba(27, 4, 4, 0.6)), url('/api/placeholder/1920/1080') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
